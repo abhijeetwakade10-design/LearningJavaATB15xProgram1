@@ -16,5 +16,6 @@ public class Lab002_printf {
         System.out.printf("%n%d x 10 = %d ",a, a*10);
 
 // trying to add new on git that is practice git
+        //
     }
 }
