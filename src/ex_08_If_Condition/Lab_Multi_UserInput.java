@@ -19,7 +19,7 @@ public class Lab_Multi_UserInput {
 
         System.out.println(s1 + s2 +s3);
 
-       // Scanner.close();
+       scanner.close();
 
 
     }
